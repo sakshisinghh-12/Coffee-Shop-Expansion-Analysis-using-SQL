@@ -1,6 +1,6 @@
 # Coffee-Shop-Expansion-Analysis-using-SQL
 
-# Project Objective
+# Project Objective 
 
 To analyze sales, customer, and city data to uncover key patterns and business opportunities, and to support strategic decision-making through SQL-based reporting and analysis.
 
